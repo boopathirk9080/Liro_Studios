@@ -1,7 +1,7 @@
 
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import './../navBar/Nav.css'
+
 
 import { IoHome } from "react-icons/io5";
 import { RiServiceFill } from "react-icons/ri";
