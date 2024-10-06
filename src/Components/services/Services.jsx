@@ -141,7 +141,7 @@ const Services = () => {
             {/* <br /> */}
             <div class="px-5 sm:px-0">
               {/* <p class="mt-4 text-justify text-sm sm:text-xl md:text-xl lg:text-xl leading-relaxed text-gray-600 max-w-full sm:max-w-400  lg:max-w-xl"> */}
-              <p className="text-justify mt-7 text-base lg:text-[1.1rem] md:text-[30px] leading-relaxed text-gray-600 max-w-full">
+              <p className="text-justify mt-7 text-base lg:text-[1.1rem] md:text-[30px]  leading-relaxed text-gray-600 max-w-full">
                 At Liro Studios, we bring imagination to life with top-tier multimedia content.
                 Our expertise spans visual effects, 3D animation, and professional studio editing, using cutting-edge tools
                 such as Autodesk Maya, Houdini, Blender, Avid Media Composer, DaVinci Resolve, and Pro Tools. Our highly
