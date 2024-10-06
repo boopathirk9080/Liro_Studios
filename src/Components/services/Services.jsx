@@ -38,7 +38,7 @@ const Services = () => {
             {/* <br /> */}
             <div class="px-5 sm:px-0">
               {/* <p class="mt-4 text-justify text-sm sm:text-xl md:text-xl lg:text-xl leading-relaxed text-gray-600 max-w-full sm:max-w-400  lg:max-w-xl"> */}
-              <p className="text-justify mt-7 text-base leading-relaxed text-gray-600 max-w-full">
+              <p className="text-justify mt-7 text-base lg:text-[1.1rem] md:text-[30px] leading-relaxed text-gray-600 max-w-full">
                 At Liro Studios, we design visually stunning, responsive, and user-friendly websites tailored to your business's unique needs.
                 As a creative digital marketing agency, we build websites that not only look great but perform exceptionally well across all devices.
                 Our expert team optimizes each site for SEO, helping you rank higher on search engines and attract more organic traffic.
@@ -72,7 +72,7 @@ const Services = () => {
             {/* <br /> */}
             <div class="px-5 sm:px-0">
               {/* <p class="mt-4 text-justify text-sm sm:text-xl md:text-xl lg:text-xl leading-relaxed text-gray-600 max-w-full sm:max-w-400  lg:max-w-xl"> */}
-              <p className="text-justify mt-7 text-base leading-relaxed text-gray-600 max-w-full">
+              <p className="text-justify mt-7 text-base  lg:text-[1.1rem] md:text-[30px]leading-relaxed text-gray-600 max-w-full">
                 Liro Studios excels in graphic design to elevate businesses. We create compelling visuals for brands, including logos, advertisements, and website graphics. Our designs captivate audiences and strengthen brand identity across multiple platforms. With a strong focus on creativity and close client collaboration, we ensure each design aligns with business objectives and resonates with target audiences. Whether for print or digital media, our graphic design services aim to amplify businesses and leave a lasting, impactful impression.
               </p>
 
@@ -109,7 +109,7 @@ const Services = () => {
             {/* <br /> */}
             <div class="px-5 sm:px-0">
               {/* <p class="mt-4 text-justify text-sm sm:text-xl md:text-xl lg:text-xl leading-relaxed text-gray-600 max-w-full sm:max-w-400  lg:max-w-xl"> */}
-              <p className="text-justify mt-7 text-base leading-relaxed text-gray-600 max-w-full">
+              <p className="text-justify mt-7 text-base lg:text-[1.1rem] md:text-[30px] leading-relaxed text-gray-600 max-w-full">
                 As a creative digital marketing agency, Liro Studios offers comprehensive digital marketing services, including SEO (Search Engine Optimization), social media management, and strategic content creation. Our specialists leverage advanced tools such as Google Analytics, Ahrefs, SEMrush, and Moz to elevate your online presence, drive meaningful engagement, and achieve your marketing objectives. We also excel in crowdfunding to support your pioneering projects.
               </p>
               <br />
@@ -141,7 +141,7 @@ const Services = () => {
             {/* <br /> */}
             <div class="px-5 sm:px-0">
               {/* <p class="mt-4 text-justify text-sm sm:text-xl md:text-xl lg:text-xl leading-relaxed text-gray-600 max-w-full sm:max-w-400  lg:max-w-xl"> */}
-              <p className="text-justify mt-7 text-base leading-relaxed text-gray-600 max-w-full">
+              <p className="text-justify mt-7 text-base lg:text-[1.1rem] md:text-[30px] leading-relaxed text-gray-600 max-w-full">
                 At Liro Studios, we bring imagination to life with top-tier multimedia content.
                 Our expertise spans visual effects, 3D animation, and professional studio editing, using cutting-edge tools
                 such as Autodesk Maya, Houdini, Blender, Avid Media Composer, DaVinci Resolve, and Pro Tools. Our highly
