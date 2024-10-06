@@ -1,0 +1,7 @@
+.highlights {
+    color: #00f260;
+    background: linear-gradient(to right, #0575e6, #00f260);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 20px;
+  }

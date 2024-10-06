@@ -1,0 +1,64 @@
+/* .highlight {
+    color: #00f260;
+    background: linear-gradient(to right, #0575e6, #00f260);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .cta-button {
+    padding: 12px 24px;
+    background: linear-gradient(to right, #0575e6, #00f260);
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    transition: transform 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+   */
+
+
+
+
+
+
+
+
+
+
+
+
+   /* -webkit-background-clip: text; */
+
+
+
+
+
+   .highlight {
+    color: #00f260;
+    background: linear-gradient(to right, #0575e6, #00f260);
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .cta-button {
+    padding: 12px 24px;
+    background: linear-gradient(to right, #0575e6, #00f260);
+    border: none;
+    border-radius: 8px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 18px;
+    transition: transform 0.3s ease;
+  }
+  
+  .cta-button:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
