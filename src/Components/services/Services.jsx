@@ -120,13 +120,14 @@ const Services = () => {
 
 
             {/* Find More Button */}
-            <div class="mt-5">
+           <div className='mt-7'>
+              <div class="mt-5">
 
-              <Link to="/webdevelopment" class="inline-block px-6 py-2 font-semibold text-white bg-gradient-to-r from-blue-600 to-green-400 rounded-full">Find more</Link>
+                <Link to="/webdevelopment" class="inline-block px-6 py-2 font-semibold text-white bg-gradient-to-r from-blue-600 to-green-400 rounded-full">Find more</Link>
+              </div>
+              <div class="h-0 mt-6 mb-4 border-t-2 border-gray-200 border-dashed"></div>
             </div>
-            <div class="h-0 mt-6 mb-4 border-t-2 border-gray-200 border-dashed"></div>
           </div>
-
 
 
 
