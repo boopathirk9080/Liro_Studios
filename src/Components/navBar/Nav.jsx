@@ -1,6 +1,7 @@
-
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
+import './../navBar/Nav.css'
+
 
 
 import { IoHome } from "react-icons/io5";
@@ -21,7 +22,10 @@ const Nav = () => {
   return (
     <header>
       {/* Main navigation bar */}
-      <div className="relative" style={{ background: '#734f96' }}>
+      <div className="relative" 
+      // style={{ background: '#734f96' }}
+      style={{ background: '#0d233afc' }}
+      >
         <div className="relative px-4 mx-auto sm:px-6 lg:px-8">
           <nav className=" flex  items-center justify-between h-10 " style={{ height: isMobileMenuOpen ? '10px' : '78px' }}>
             <div className="flex-shrink-0">
