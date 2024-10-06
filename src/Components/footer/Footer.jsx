@@ -115,7 +115,7 @@ const Footer = () => {
 
                 <hr className="mt-16 mb-10 border-gray-800" />
 
-                <div className="flex flex-wrap items-center justify-between">
+                <div className="flex flex-wrap items-center  md:pl-5 md:pr-5  justify-between">
                     <img className="h-9 w-50 auto md:order-1" src="/logo/logo_white.png" alt="Liro Studios" />
 
                     <ul className="flex items-center space-x-3 md:order-3">
