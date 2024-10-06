@@ -72,7 +72,7 @@ const Services = () => {
             {/* <br /> */}
             <div class="px-5 sm:px-0">
               {/* <p class="mt-4 text-justify text-sm sm:text-xl md:text-xl lg:text-xl leading-relaxed text-gray-600 max-w-full sm:max-w-400  lg:max-w-xl"> */}
-              <p className="text-justify mt-7 text-base  lg:text-[1.1rem] md:text-[30px]leading-relaxed text-gray-600 max-w-full">
+              <p className="text-justify mt-7 text-base  lg:text-[1.1rem] md:text-[30px] leading-relaxed text-gray-600 max-w-full">
                 Liro Studios excels in graphic design to elevate businesses. We create compelling visuals for brands, including logos, advertisements, and website graphics. Our designs captivate audiences and strengthen brand identity across multiple platforms. With a strong focus on creativity and close client collaboration, we ensure each design aligns with business objectives and resonates with target audiences. Whether for print or digital media, our graphic design services aim to amplify businesses and leave a lasting, impactful impression.
               </p>
 
